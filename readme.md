@@ -39,6 +39,8 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 
 ## Development Projects
 #### APIs
+- [TCGPriceLookup](https://tcgpricelookup.com) - One API for every major TCG — live prices for Pokémon, MTG, Yu-Gi-Oh, Lorcana, One Piece, SWU, and Flesh and Blood.
+- [TCGFast](https://tcgfast.com) - Real-time card pricing API for Pokémon, MTG, Yu-Gi-Oh, Lorcana, One Piece and more.
 - [PokeAPI](https://github.com/PokeAPI/pokeapi/) - A RESTful API for Pokémon (http://pokeapi.co/).
 - [pgoapi](https://github.com/tejado/pgoapi) - Pokémon GO API lib/demo.
 - [pokemon-API](https://github.com/Purukitto/pokemon-api) - Beginner friendly API endpoint that returns Pokémon Data in JSON format (https://app.pokemon-api.xyz).
@@ -51,10 +53,9 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [TCGdex](https://github.com/tcgdex/cards-database) - Multi languages Pokémon TCG API.
 - [Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex) - Pokedex app built with Kotlin.
 - [graphql-pokemon](https://github.com/lucasbento/graphql-pokemon) - Get information of a Pokémon with GraphQL.
-- [TCGPriceLookup](https://tcgpricelookup.com) - One API for every major TCG — live prices for Pokémon, MTG, Yu-Gi-Oh, Lorcana, One Piece, SWU, and Flesh and Blood.
-- [TCGFast](https://tcgfast.com) - Real-time card pricing API for Pokémon, MTG, Yu-Gi-Oh, Lorcana, One Piece and more.
 
 #### Apps
+- [PokeTrace](https://poketrace.com) - Free Pokémon card price checker comparing live prices across multiple markets, including graded card values.
 - [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) - Pokémon battle simulator.
 - [iPokeMon](https://github.com/Kjuly/iPokeMon) - Pokémon like game on iOS with Location Based Service.
 - [pokemon-online](https://github.com/po-devs/pokemon-online) - Online Pokémon Battle Simulator.
@@ -62,7 +63,6 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [pokecry](https://github.com/fent/pokecry) - Guess Pokémon from their cry.
 - [Pokedex](https://github.com/skydoves/Pokedex) - Android Pokedex using Dagger, Hilt, Motion, Coroutines, Flow, and Jetpack.
 - [Who's That Pokémon?](https://github.com/serena2341/whos-that-pokemon) - Guess Pokémon from their silhouette.
-- [PokeTrace](https://poketrace.com) - Free Pokémon card price checker comparing live prices across multiple markets, including graded card values.
 
 #### Bots
 - [Pokemon Go Bot](https://github.com/Hrithikd/Pokemon-Go-Bot-Working-Hack-API) - Pokémon GO bot that farms for Pokestops and Pokémon.
